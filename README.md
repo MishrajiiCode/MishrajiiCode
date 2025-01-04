@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Class wise study Material](https://mishrajiicode.github.io/class-9-study-material/)
+- 🔭 I’m currently working on [DigitalStudy](https://mishrajiicode.github.io/DigitalStudy/)
 
 - 🌱 I’m currently learning **Full Stack Web Develepoment**
 
