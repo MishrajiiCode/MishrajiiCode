@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Develepoment**
 
-- 👯 I’m looking to collaborate on **Sanatan Sanaskriti**
+- 👯 I’m looking to collaborate on [VedicTube](https://mishrajiicode.github.io/VedicTube/)
 
-- 🤝 I’m looking for help with [Stdent Regestration System](https://mishrajiicode.github.io/Student-Regestration-system/)
+- 🤝 I’m looking for help with [DigitalStudy](https://mishrajiicode.github.io/DigitalStudy/)
 
 - 👨‍💻 All of my projects soon are available at [https://mishrajiicode.github.io/portfolio/](https://mishrajiicode.github.io/portfolio/)
 
